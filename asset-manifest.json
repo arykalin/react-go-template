@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/react-go-template/static/js/app.71dd36dd.chunk.js",
+    "app.js.map": "/react-go-template/static/js/app.71dd36dd.chunk.js.map",
+    "runtime~app.js": "/react-go-template/static/js/runtime~app.c71e039c.js",
+    "runtime~app.js.map": "/react-go-template/static/js/runtime~app.c71e039c.js.map",
+    "static/js/2.be263bd8.chunk.js": "/react-go-template/static/js/2.be263bd8.chunk.js",
+    "static/js/2.be263bd8.chunk.js.map": "/react-go-template/static/js/2.be263bd8.chunk.js.map",
+    "fonts/AntDesign.ttf": "/react-go-template/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/react-go-template/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/react-go-template/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/react-go-template/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/react-go-template/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/react-go-template/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/react-go-template/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/react-go-template/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/react-go-template/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/react-go-template/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/react-go-template/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/react-go-template/./fonts/SimpleLineIcons.ttf",
+    "fonts/SpaceMono-Regular.ttf": "/react-go-template/./fonts/SpaceMono-Regular.ttf",
+    "favicon-16.png": "/react-go-template/favicon-16.png",
+    "favicon-32.png": "/react-go-template/favicon-32.png",
+    "favicon.ico": "/react-go-template/favicon.ico",
+    "index.html": "/react-go-template/index.html",
+    "manifest.json": "/react-go-template/manifest.json",
+    "serve.json": "/react-go-template/serve.json",
+    "static/js/2.be263bd8.chunk.js.LICENSE.txt": "/react-go-template/static/js/2.be263bd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.c71e039c.js",
+    "static/js/2.be263bd8.chunk.js",
+    "static/js/app.71dd36dd.chunk.js"
+  ]
+}
